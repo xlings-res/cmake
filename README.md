@@ -1,6 +1,6 @@
-# xpkg-template | [xlings](https://github.com/d2learn/xlings)
+# CMake | [xlings](https://github.com/d2learn/xlings)
 
-> ...
+> A Powerful Software Build System
 
 | [工具](https://github.com/d2learn/xlings) - [包索引仓库](https://github.com/d2learn/xim-pkgindex) - [包索引网站](https://d2learn.github.io/xim-pkgindex) - [论坛交流](https://forum.d2learn.org) - [d2learn开源](https://github.com/d2learn) |
 |---|
@@ -33,9 +33,9 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 **安装命令**
 
 ```bash
-xlings install xpkgname
+xlings install cmake
 ```
 
 **Refs**
 
-- xxx
+- https://cmake.org
